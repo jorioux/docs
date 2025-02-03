@@ -1,0 +1,22 @@
+repo_name: docs
+repo_url: https://github.com/jorioux/docs
+site_name: PickleTime Docs
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - toc:
+      permalink: true
+plugins:
+  - search
+  - tags
+
