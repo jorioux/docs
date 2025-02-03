@@ -19,7 +19,7 @@ RUN mkdocs build
 
 FROM nginx:alpine
 
-COPY --from=0 /app/site /usr/share/nginx/html
+COPY --from=0 /app/site /usr/local/share/nginx
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 CMD ["nginx", "-g", "daemon off;"]
