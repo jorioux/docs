@@ -1,6 +1,10 @@
 site_name: PickleTime Docs
+copyright: Copyright &copy; 2025 PickleTime
 theme:
   name: material
+  logo: images/ball-icon.webp
+  palette:
+    primary: indigo
 markdown_extensions:
   - admonition
   - attr_list
@@ -19,3 +23,5 @@ markdown_extensions:
 plugins:
   - search
   - tags
+extra:
+  generator: false
