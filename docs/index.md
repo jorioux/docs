@@ -1,23 +1,21 @@
-# Network diagram
+# Home
 
-```mermaid
-flowchart TB
-    subgraph mele["MeLE Quieter DL"]
-    pfsense["**pfsense**<br>- firewall"]
-    haproxy@{ shape: hex, label: "**haproxy**<br>- load balancer" }
-    pfsense-->haproxy
-    end
-    subgraph optiplex["Optiplex"]
-    ubuntu1["k8s node 1"]
-    end
-    subgraph proliant["HP Proliant"]
-    ubuntu2["k8s node 2"]
-    ubuntu3["k8s node 3"]
-    end
-    
-    internet(["Internet"]) --> mele
-    haproxy --> ubuntu1 & ubuntu2 & ubuntu3
-    ubuntu1 & ubuntu2 & ubuntu3 --> storage
-    storage@{ shape: lin-cyl, label: "NAS" }
-```
+Welcome to the PickleTime documentation.
 
+Use the top menu to browse the docs, or use the links below.
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-users: __Members management__
+
+    ---
+
+    [:octicons-arrow-right-24: Getting started](members.md)
+
+-   :material-credit-card-outline: __Payments__
+
+    ---
+
+    [:octicons-arrow-right-24: Getting started](payments.md)
+
+</div>
