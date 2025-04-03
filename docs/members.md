@@ -31,10 +31,17 @@ You can also set an expiration date on your Invite Codes.
 You might want to set additional informations on your members.
 These types of fields are supported:
 
-* Text
-* Boolean (true or false)
-* Date
+| Type    | Examples |
+| ------- | --- |
+| Text    | citizenship card #, emergency contact infos, etc. |
+| Boolean | wether or not the member is a volonteer, etc. |
+| Date    | citizenship card expiration, etc. |
 
-Each extra field can be set as:
+Each extra field supports these parameters:
 
-* Private
+| Parameter  | Examples |
+| ---------- | --- |
+| Required   | Members will have to fill this field to be allowed to join events |
+| Private    | This field will be visible by the member himself and administrators only. Otherwise, this field will be visible to all members. |
+| Hidden     | This field will be visible by the administrators only |
+| Restricted | This field will be restricted to editing by administrators only. Otherwise, the member is allowed to edit this field. |

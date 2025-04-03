@@ -10,7 +10,9 @@ Use the top menu to browse the docs, or use the links below.
 
     ---
 
-    [:octicons-arrow-right-24: Getting started](members.md)
+    [:octicons-arrow-right-24: Invite Members](members.md#invite-members)
+    
+    [:octicons-arrow-right-24: Extra Fields](members.md#extra-fields)
 
 -   :material-credit-card-outline: __Payments__
 
