@@ -39,7 +39,7 @@ These types of fields are supported:
 
 Each extra field supports these parameters:
 
-| Parameter  | Examples |
+| Parameter  | Explanation |
 | ---------- | --- |
 | Required   | Members will have to fill this field to be allowed to join events |
 | Private    | This field will be visible by the member himself and administrators only. Otherwise, this field will be visible to all members. |
