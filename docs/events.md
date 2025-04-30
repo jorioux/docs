@@ -54,8 +54,6 @@ After setting up a recurring event, you may need to manage it periodically. The 
 
 Locations specify where an event will take place. When creating or editing an event, you can select the desired location from the dropdown menu.
 
-![Recurrence](images/events/locations.png)
-
 !!! info "Updating an event location"
 
     If the location of an event is changed, for example, if the event is moved to a different venue, all subscribed users will be notified of the change to ensure they are aware of the updated details.
@@ -85,6 +83,10 @@ As an organizer, they are responsible for ensuring the event runs smoothly. (1)
 
 !!! info "Organizers Permissions"
     Organizers also have the authority to cancel an event if necessary, such as in the case of bad weather (e.g., rain) or other unforeseen circumstances.
+
+To add organizers for an event, navigate to the event edit page. From there, you can assign specific members as organizers.
+
+![Manage Organizers](images/events/manage-organizers.png)
 
 ## :fontawesome-regular-comments: Event Chat
 
