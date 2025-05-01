@@ -1,4 +1,12 @@
-# Members
+# Members management
+
+## Send messages
+
+You can send messages to members by selecting them, then select "Send message".
+
+![Send Message](../images/send-message-users.png)
+
+The message recipients will be able to reply to the message from the Chat.
 
 ## Invite Members
 
@@ -9,7 +17,7 @@ You can invite members to your Club by using one of these methods:
 You can import a list of emails from a CSV file.
 An email with a unique code will be sent to each email in the list.
 
-![Invitations](images/invitations.png)
+![Invitations](../images/invitations.png)
 
 ### Send an invite email
 
@@ -24,7 +32,7 @@ You can then share this code with whoever you like. When people registers on you
 
 You can also set an expiration date on your Invite Codes.
 
-![Invite Code](images/invite-code.png)
+![Invite Code](../images/invite-code.png)
 
 ## Extra Fields
 

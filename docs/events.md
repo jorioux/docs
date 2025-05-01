@@ -1,4 +1,4 @@
-# Events
+# Events management
 
 ## Creating Events
 
@@ -56,7 +56,7 @@ Locations specify where an event will take place. When creating or editing an ev
 
 !!! info "Updating an event location"
 
-    If the location of an event is changed, for example, if the event is moved to a different venue, all subscribed users will be notified of the change to ensure they are aware of the updated details.
+    If the location of an event is changed, for example, if the event is moved to a different venue, all subscribed members will be notified of the change to ensure they are aware of the updated details.
 
 ## :fontawesome-regular-calendar: Calendar View
 
@@ -68,11 +68,11 @@ This feature helps you better manage and plan events by displaying them in a cle
 
 ## :fontawesome-regular-bell: Reminders
 
-Reminders are automatically sent to all users who are attending an event (excluding those on the waitlist) 2 hours before the event starts. This ensures participants are notified and prepared for the event.
+Reminders are automatically sent to all members who are attending an event (excluding those on the waitlist) 2 hours before the event starts. This ensures participants are notified and prepared for the event.
 
 ## :fontawesome-solid-user-tie: Organizers
 
-Event organizers are users assigned to oversee and manage specific events.
+Event organizers are members assigned to oversee and manage specific events.
 
 As an organizer, they are responsible for ensuring the event runs smoothly. (1)
 { .annotate }
@@ -90,9 +90,9 @@ To add organizers for an event, navigate to the event edit page. From there, you
 
 ## :fontawesome-regular-comments: Event Chat
 
-The event chat allows participants and waitlisted users to communicate and stay updated about the event. Messages sent to this chat are visible to all attendees, including those on the waitlist.
+The event chat allows participants and waitlisted members to communicate and stay updated about the event. Messages sent to this chat are visible to all attendees, including those on the waitlist.
 
-In addition to user messages, the chat also displays important activities related to the event, such as:
+In addition to messages, the chat also displays important activities related to the event, such as:
 
 * Members who joined or left the event.
 * Changes made to the event, such as updates to the location or time.
@@ -110,9 +110,8 @@ The waitlist is a feature that is enabled by default but can be disabled for spe
 
 ![Event Settings](images/events/settings.png)
 
-When an event reaches its maximum capacity of participants, additional users can still join, but they are placed on a waitlist.
+When an event reaches its maximum capacity of participants, additional members can still join, but they are placed on a waitlist.
 
 ![Waitlist](images/events/waitlist.png)
 
-If a participant withdraws from the event, the next user on the waitlist is automatically moved to the participants list. This ensures that the event remains full while giving waitlisted users a chance to participate.
-
+If a participant withdraws from the event, the next user on the waitlist is automatically moved to the participants list. This ensures that the event remains full while giving waitlisted members a chance to participate.

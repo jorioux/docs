@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the PickleTime documentation.
+Welcome to the [PickleTime](https://pickletime.app) documentation.
 
 Use the top menu to browse the docs, or use the links below.
 
@@ -10,9 +10,11 @@ Use the top menu to browse the docs, or use the links below.
 
     ---
 
-    [:octicons-arrow-right-24: Invite Members](members.md#invite-members)
+    [:octicons-arrow-right-24: Invite Members](members/index.md#invite-members)
 
-    [:octicons-arrow-right-24: Extra Fields](members.md#extra-fields)
+    [:octicons-arrow-right-24: Extra Fields](members/index.md#extra-fields)
+
+    [:octicons-arrow-right-24: Groups](members/groups.md)
 
 -   :octicons-calendar-16: __Events management__
 
