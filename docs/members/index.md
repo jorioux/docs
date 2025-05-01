@@ -1,13 +1,5 @@
 # Members management
 
-## Send messages
-
-You can send messages to members by selecting them, then select "Send message".
-
-![Send Message](../images/send-message-users.png)
-
-The message recipients will be able to reply to the message from the Chat.
-
 ## Invite Members
 
 You can invite members to your Club by using one of these methods:
@@ -53,3 +45,11 @@ Each extra field supports these parameters:
 | Private    | This field will be visible by the member himself and administrators only. Otherwise, this field will be visible to all members. |
 | Hidden     | This field will be visible by the administrators only |
 | Restricted | This field will be restricted to editing by administrators only. Otherwise, the member is allowed to edit this field. |
+
+## Send messages
+
+You can send messages to members by selecting them, then select "Send message".
+
+![Send Message](../images/send-message-users.png)
+
+The message recipients will be able to reply to the message from the Chat.
