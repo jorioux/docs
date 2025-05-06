@@ -18,7 +18,7 @@ Date and Time
 
     !!! info "Player Levels"
 
-        You may also assign player levels to events to restrict who can register.
+        You may also assign [player levels](members/player_levels.md) to events to restrict who can register.
 
         Additionally, you can specify a maximum number of participants per player level.
 
@@ -115,3 +115,4 @@ When an event reaches its maximum capacity of participants, additional members c
 ![Waitlist](images/events/waitlist.png)
 
 If a participant withdraws from the event, the next user on the waitlist is automatically moved to the participants list. This ensures that the event remains full while giving waitlisted members a chance to participate.
+

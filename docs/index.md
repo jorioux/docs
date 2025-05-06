@@ -16,6 +16,8 @@ Use the top menu to browse the docs, or use the links below.
 
     [:octicons-arrow-right-24: Groups](members/groups.md)
 
+    [:octicons-arrow-right-24: Player Levels](members/player_levels.md)
+
 -   :octicons-calendar-16: __Events management__
 
     ---
@@ -35,3 +37,4 @@ Use the top menu to browse the docs, or use the links below.
     [:octicons-arrow-right-24: Getting started](payments.md)
 
 </div>
+
