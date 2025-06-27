@@ -18,23 +18,21 @@ Use the top menu to browse the docs, or use the links below.
 
     [:octicons-arrow-right-24: Player Levels](members/player_levels.md)
 
--   :octicons-calendar-16: __Events management__
+-   :octicons-calendar-16: __Events__
 
     ---
 
-    [:octicons-arrow-right-24: Creating Events](events.md#creating-events)
+    [:octicons-arrow-right-24: Events Management](events/events_management.md)
 
-    [:octicons-arrow-right-24: Locations](events.md#locations)
+    [:octicons-arrow-right-24: Events Settings](events/events_settings.md)
 
-    [:octicons-arrow-right-24: Organizers](events.md#organizers)
-    
-    [:octicons-arrow-right-24: Waitlist](events.md#waitlist)
+    [:octicons-arrow-right-24: Recurring Events](events/recurring_events.md)
 
--   :octicons-credit-card-16: __Payments__
+-   :octicons-credit-card-16: __Billing__
 
     ---
 
-    [:octicons-arrow-right-24: Getting started](payments.md)
+    [:octicons-arrow-right-24: Getting started](billing.md)
 
 </div>
 

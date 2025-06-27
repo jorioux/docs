@@ -1,4 +1,4 @@
-# Events management
+# Events Management
 
 ## Creating Events
 
@@ -18,37 +18,13 @@ Date and Time
 
     !!! info "Player Levels"
 
-        You may also assign [player levels](members/player_levels.md) to events to restrict who can register.
+        You may also assign [player levels](../members/player_levels.md) to events to restrict who can register.
 
         Additionally, you can specify a maximum number of participants per player level.
 
         If the maximum per player level is not defined, the event will still be restricted to that player level but will allow an unlimited number of participants.
 
-        ![Maximum per Player Level](images/events/player_level_maximum.png)
-
-## :fontawesome-solid-rotate: Recurring Events
-
-When creating an event, you may designate it as recurring by selecting the desired frequency.
-
-![Recurrence](images/events/recurrence.png)
-
-This action will generate a series of linked events for streamlined management. Each event within the series can be managed independently.
-
-!!! info "Frequency"
-
-    You can choose from the following frequencies:
-    
-    * Daily
-    * Weekly
-    * Monthly
-
-### Managing Recurring Events
-
-After setting up a recurring event, you may need to manage it periodically. The following tasks are common:
-
-* **Editing a Recurring Event**: If modifications are required, you can edit the series. You have the option to update either a single occurrence or the entire series.
-
-* **Deleting a Recurring Event**: To remove a recurring event, you may choose to delete a single occurrence or the entire series. Please note that this action is irreversible.
+        ![Maximum per Player Level](../images/events/player-level-maximum.png)
 
 ## :fontawesome-solid-location-dot: Locations
 
@@ -62,7 +38,7 @@ Locations specify where an event will take place. When creating or editing an ev
 
 The calendar view provides a comprehensive overview of all events, allowing you to see the entire schedule at a glance.
 
-![Calendar](images/events/calendar.png)
+![Calendar](../images/events/calendar.png)
 
 This feature helps you better manage and plan events by displaying them in a clear and organized format.
 
@@ -79,14 +55,14 @@ As an organizer, they are responsible for ensuring the event runs smoothly. (1)
 
 1. This includes bringing necessary items, such as balls or other equipment, and addressing any issues that arise during the event.
 
-![Organizers](images/events/organizers.png)
+![Organizers](../images/events/organizers.png)
 
 !!! info "Organizers Permissions"
     Organizers also have the authority to cancel an event if necessary, such as in the case of bad weather (e.g., rain) or other unforeseen circumstances.
 
 To add organizers for an event, navigate to the event edit page. From there, you can assign specific members as organizers.
 
-![Manage Organizers](images/events/manage-organizers.png)
+![Manage Organizers](../images/events/manage-organizers.png)
 
 ## :fontawesome-regular-comments: Event Chat
 
@@ -97,7 +73,7 @@ In addition to messages, the chat also displays important activities related to 
 * Members who joined or left the event.
 * Changes made to the event, such as updates to the location or time.
 
-![Chat](images/events/chat.png)
+![Chat](../images/events/chat.png)
 
 The event chat can also be used to send messages after the event has concluded. (1)
 { .annotate }
@@ -106,13 +82,10 @@ The event chat can also be used to send messages after the event has concluded. 
 
 ## :fontawesome-regular-hourglass-half: Waitlist
 
-The waitlist is a feature that is enabled by default but can be disabled for specific events.
-
-![Event Settings](images/events/settings.png)
+The waitlist feature is enabled by default but can be [disabled](events_settings.md#disable-waitlist) for specific events.
 
 When an event reaches its maximum capacity of participants, additional members can still join, but they are placed on a waitlist.
 
-![Waitlist](images/events/waitlist.png)
+![Waitlist](../images/events/waitlist.png)
 
 If a participant withdraws from the event, the next user on the waitlist is automatically moved to the participants list. This ensures that the event remains full while giving waitlisted members a chance to participate.
-
