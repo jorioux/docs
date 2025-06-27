@@ -13,6 +13,8 @@ Player levels can be customized based on your club's preferences. Common example
 
 You can attach player levels to events to restrict participation. This ensures that only members within the specified player levels can register for the event.
 
+![Attach player levels to events](../images/attach-player-levels-to-events.png)
+
 Additionally, you can define a maximum number of participants per player level. If no maximum is set, the event will still be restricted to the specified player levels but will allow an unlimited number of participants.
 
 ## Messaging Specific Player Levels
