@@ -48,3 +48,10 @@ This feature is ideal when you want members to commit to a specific time slot fo
 When viewing an event with season subscriptions enabled, a notice will be displayed indicating that this event series will occur every week or every specified number of days until a specific end date.
 
 ![Subscribe for the season](../images/events/subscribe-for-the-season.png)
+
+!!! note "Season Subscriptions period"
+
+    You should leave the Season Subscriptions enabled only for a short period, like a week or two, before the season starts. Just enough time so members can pick their time slots for the upcoming season.
+
+    It is recommended to turn off the Season Subscriptions toggle on events once the subscription period has ended.
+    That way, after the season has started, members can then join singles events to fill empty slots, or to get on the waitlist.
