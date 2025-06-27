@@ -12,7 +12,7 @@ To prevent members from joining a waitlist when an event reaches capacity, you m
 
 ## Season Subscriptions
 
-The [Season Subscriptions](recurring_events.md#season-subscriptions) feature is available exclusively for [recurring events](recurring_events.md), allowing for advanced subscription management.
+The [Season Subscriptions](recurring-events.md#season-subscriptions) feature is available exclusively for [recurring events](recurring-events.md), allowing for advanced subscription management.
 
 ## Joining Unlocks On
 

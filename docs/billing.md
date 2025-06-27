@@ -20,7 +20,7 @@ These features help maintain an organized and efficient membership management sy
 
 This feature allows you to track individual member balances for event participation.
 
-When a member signs up for an event, like a tournament or a clinic, the [cost](events/events_settings.md#event-cost) is automatically added to their ongoing balance. Think of it like a running tab just for their event fees.
+When a member signs up for an event, like a tournament or a clinic, the [cost](events/events-settings.md#event-cost) is automatically added to their ongoing balance. Think of it like a running tab just for their event fees.
 
 And if you receive payments through other methods (like cash or e-transfer), you can manually adjust a member's balance to reflect those payments.
 

@@ -18,7 +18,7 @@ Date and Time
 
     !!! info "Player Levels"
 
-        You may also assign [player levels](../members/player_levels.md) to events to restrict who can register.
+        You may also assign [player levels](../members/player-levels.md) to events to restrict who can register.
 
         Additionally, you can specify a maximum number of participants per player level.
 
@@ -82,7 +82,7 @@ The event chat can also be used to send messages after the event has concluded. 
 
 ## :fontawesome-regular-hourglass-half: Waitlist
 
-The waitlist feature is enabled by default but can be [disabled](events_settings.md#disable-waitlist) for specific events.
+The waitlist feature is enabled by default but can be [disabled](events-settings.md#disable-waitlist) for specific events.
 
 When an event reaches its maximum capacity of participants, additional members can still join, but they are placed on a waitlist.
 
