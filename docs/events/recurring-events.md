@@ -39,6 +39,10 @@ After setting up a recurring event, you may need to manage it periodically. The 
 
 ## Season Subscriptions
 
+!!! warning "Warning"
+
+    It is recommended to use the new [Seasons](../seasons/index.md) feature instead.
+
 Recurring events can have **Season Subscriptions** enabled. When this option is active, members who join the event are automatically subscribed to all occurrences within the recurring event series.
 
 ![Season subscription toggle](../images/events/season-subscriptions-toggle.png)

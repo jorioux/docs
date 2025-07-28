@@ -28,6 +28,12 @@ Use the top menu to browse the docs, or use the links below.
 
     [:octicons-arrow-right-24: Recurring Events](events/recurring-events.md)
 
+-   :octicons-sun-16: __Seasons__
+
+    ---
+
+    [:octicons-arrow-right-24: Season Subscriptions](seasons/index.md)
+
 -   :octicons-credit-card-16: __Billing__
 
     ---
