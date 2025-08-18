@@ -68,10 +68,11 @@ To add organizers for an event, navigate to the event edit page. From there, you
 
 The event chat allows participants and waitlisted members to communicate and stay updated about the event. Messages sent to this chat are visible to all attendees, including those on the waitlist.
 
-In addition to messages, the chat also displays important activities related to the event, such as:
+In addition to messages, the Event Chat also acts as an activity log for the event. It shows informations such as:
 
 * Members who joined or left the event.
 * Changes made to the event, such as updates to the location or time.
+* If the event is canceled, the reason will be displayed in the Event Chat.
 
 ![Chat](../images/events/chat.png)
 
@@ -89,3 +90,4 @@ When an event reaches its maximum capacity of participants, additional members c
 ![Waitlist](../images/events/waitlist.png)
 
 If a participant withdraws from the event, the next user on the waitlist is automatically moved to the participants list. This ensures that the event remains full while giving waitlisted members a chance to participate.
+

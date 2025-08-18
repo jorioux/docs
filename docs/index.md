@@ -34,11 +34,15 @@ Use the top menu to browse the docs, or use the links below.
 
     [:octicons-arrow-right-24: Season Subscriptions](seasons/index.md)
 
--   :octicons-credit-card-16: __Billing__
+-   :octicons-book-16: __Other__
 
     ---
 
-    [:octicons-arrow-right-24: Getting started](billing.md)
+    [:octicons-credit-card-24: Billing](billing.md)
+
+    [:octicons-comment-24: Messaging](messaging.md)
+
+    [:octicons-bell-24: Push Notifications](push-notifications.md)
 
 </div>
 

@@ -1,4 +1,4 @@
-# Messaging
+# :fontawesome-regular-comments: Messaging
 
 PickleTime includes a powerful, integrated chat feature designed to enhance collaboration and communication among members.
 
