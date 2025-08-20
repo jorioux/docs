@@ -1,5 +1,13 @@
 # Events Management
 
+## Important Concepts
+
+* **Season**: A defined period (e.g., "Summer 2025") during which special subscription rules apply. A season can have its pre-season subscriptions "open" or "closed".
+
+* **Event Series**: A recurring event (e.g., "Monday Night Drills"). It can have a cost for season-long subscription.
+
+* **Event**: A single occurrence of an EventSeries on a specific date (e.g., "Monday Night Drills on July 7th, 2025").
+
 ## Creating Events
 
 Events are an essential part of managing a pickleball club. With PickleTime, you can efficiently organize and oversee events.
