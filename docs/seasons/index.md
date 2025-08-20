@@ -2,6 +2,26 @@
 
 Seasons allow members to subscribe to weekly time slots before the season starts. This feature enables clubs to manage recurring events and collect payments in advance.
 
+## Introduction
+
+### Open Pre-Season Subscriptions
+
+When a season's subscriptions are open, members cannot subscribe to individual events directly from the regular schedule. All subscriptions for events within that season must be made through the **Season Calendar**. This is to ensure members subscribe to the entire Event Series for the season, rather than picking and choosing individual dates.
+
+ * Action: Members must navigate to the Season Calendar.
+
+ * Outcome: Subscribing to an Event Series from the Season Calendar subscribes the member to all events within that series for the entire season.
+
+### Closed Pre-Season Subscriptions
+
+When a season's subscriptions are closed (or were never open), members have more granular control over event subscriptions, but with specific limitations.
+
+ * **Events a member already subscribed to via the Season Calendar**: A member can freely subscribe and unsubscribe from these individual events.
+
+ * **Events a member didn't subscribe to via the Season Calendar**: A member can only subscribe to these events if they are part of an EventSeries that had a $0 cost for a season subscription.
+
+* **Important Note**: Even if the cost was $0, an admin has the final say. They can configure the platform to deny single event subscriptions (drop-ins) for a $0 Event Series.
+
 ## Creating Seasons
 
 To create a new season:
@@ -26,15 +46,15 @@ To allow members to subscribe to the season:
 2. Navigate to the seasons table
 3. Toggle on the "Subscriptions" option for the upcoming season
 
-## Member Subscription Process
+## Pre-Season Subscriptions Process
 
-Once season subscriptions are open, members will see the subscription option in their dashboard:
+Once pre-season subscriptions are open, members will see a new section in their dashboard.
 
 ### Selecting Time Slots
 
 Members can subscribe to their preferred time slots through an intuitive process:
 
-1. **Dashboard Notification**: A new section appears in their dashboard informing them about the upcoming season subscriptions
+1. **Dashboard Notification**: A new section appears in their dashboard informing them about the pre-season subscriptions
 2. **Calendar Selection**: Members use a user-friendly calendar interface to select their desired time slots
 3. **Cost Calculation**: The total cost is automatically calculated and displayed as they make their selections
 4. **Confirmation**: Members review their choices and confirm their subscription
@@ -47,11 +67,8 @@ After confirming their subscription:
 - **Event Registration**: Members are automatically subscribed to all selected events for the entire season
 - **Confirmation**: They receive confirmation of their season subscription
 
-## Benefits of Season Subscriptions
+## Benefits of Pre-Season Subscriptions
 
-- **Advance Planning**: Members can secure their preferred time slots ahead of time
+- **Advance Planning**: Members can secure their preferred weekly time slots ahead of time
 - **Simplified Payments**: One payment covers the entire season
 - **Guaranteed Spots**: Subscribed members have priority access to their selected time slots
-- **Administrative Efficiency**: Reduces the need for individual event registrations throughout the season
-
-
