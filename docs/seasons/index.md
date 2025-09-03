@@ -2,11 +2,15 @@
 
 Seasons allow members to subscribe to weekly time slots before the season starts. This feature enables clubs to manage recurring events and collect payments in advance.
 
+![Pre-season calendar](../images/pre-season-calendar.png)
+
 ## Introduction
 
 ### Open Pre-Season Subscriptions
 
 When a season's subscriptions are open, members cannot subscribe to individual events directly from the regular schedule. All subscriptions for events within that season must be made through the **Season Calendar**. This is to ensure members subscribe to the entire Event Series for the season, rather than picking and choosing individual dates.
+
+![Pre-season subscriptions open](../images/pre-season-subscriptions-open-section.png)
 
  * Action: Members must navigate to the Season Calendar.
 
