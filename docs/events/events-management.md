@@ -40,7 +40,7 @@ Locations specify where an event will take place. When creating or editing an ev
 
 !!! info "Updating an event location"
 
-    If the location of an event is changed, for example, if the event is moved to a different venue, all subscribed members will be notified of the change to ensure they are aware of the updated details.
+    If the location of an event has changed, participants will be notified of the change to ensure they are aware of the updated details.
 
 ## :fontawesome-regular-calendar: Calendar View
 
