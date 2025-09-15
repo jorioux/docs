@@ -12,7 +12,6 @@ This action will generate a series of linked events for streamlined management. 
     
     * Daily
     * Weekly
-    * Monthly
 
 ## Managing Recurring Events
 
@@ -37,15 +36,15 @@ After setting up a recurring event, you may need to manage it periodically. The 
 
     ![Recurring series delete](../images/events/recurring-series-delete.png)
 
-## Season Subscriptions
+## Series Subscriptions
 
 !!! warning "Warning"
 
     It is recommended to use the new [Seasons](../seasons/index.md) feature instead.
 
-Recurring events can have **Season Subscriptions** enabled. When this option is active, members who join the event are automatically subscribed to all occurrences within the recurring event series.
+Recurring events can have **Series Subscriptions** enabled. When this option is active, members who join the event are automatically subscribed to all occurrences within the recurring event series.
 
-![Season subscription toggle](../images/events/season-subscriptions-toggle.png)
+![Series Subscriptions toggle](../images/events/season-subscriptions-toggle.png)
 
 This feature is ideal when you want members to commit to a specific time slot for the entire season, ensuring consistent attendance and simplifying event management.
 
@@ -53,9 +52,10 @@ When viewing an event with season subscriptions enabled, a notice will be displa
 
 ![Subscribe for the season](../images/events/subscribe-for-the-season.png)
 
-!!! note "Season Subscriptions period"
+!!! note "Series Subscriptions period"
 
-    You should leave the Season Subscriptions enabled only for a short period, like a week or two, before the season starts. Just enough time so members can pick their time slots for the upcoming season.
+    You should leave the Series Subscriptions enabled only for a short period, like a week or two, before the season starts. Just enough time so members can pick their time slots for the upcoming season.
 
     It is recommended to turn off the Season Subscriptions toggle on events once the subscription period has ended.
     That way, after the season has started, members can then join singles events to fill empty slots, or to get on the waitlist.
+

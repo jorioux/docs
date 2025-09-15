@@ -10,9 +10,9 @@ To prevent members from joining a waitlist when an event reaches capacity, you m
 
 ![Waitlist Disabled](../images/events/waitlist-disabled.png)
 
-## Season Subscriptions
+## Series Subscriptions
 
-The [Season Subscriptions](recurring-events.md#season-subscriptions) feature is available exclusively for [recurring events](recurring-events.md), allowing for advanced subscription management.
+The [Series Subscriptions](recurring-events.md#series-subscriptions) feature is available exclusively for [recurring events](recurring-events.md), allowing for advanced subscription management.
 
 ## Joining Unlocks On
 
@@ -20,6 +20,12 @@ You may restrict when users can join an event by specifying an unlock date. Befo
 
 ## Event Cost
 
-When an event cost is specified, all participants who are confirmed for the event will be charged the indicated amount after the event has occurred. **Members who remain on the waitlist are not charged.**
+When an event cost is specified, all event participants will be charged the indicated amount after the event has occurred.
+
+Exceptions:
+
+* Participants are not charged if the event is canceled.
+* Members who remain on the waitlist are not charged.
 
 The event charge will be added to each member's [ongoing balance](../billing.md#members-ongoing-balance).
+
