@@ -32,7 +32,9 @@ Use the top menu to browse the docs, or use the links below.
 
     ---
 
-    [:octicons-arrow-right-24: Season Subscriptions](seasons/index.md)
+    [:octicons-arrow-right-24: Overview](seasons/index.md)
+
+    [:octicons-arrow-right-24: Season Calendar](seasons/season-calendar.md)
 
 -   :octicons-book-16: __Other__
 
@@ -45,4 +47,5 @@ Use the top menu to browse the docs, or use the links below.
     [:octicons-bell-24: Push Notifications](push-notifications.md)
 
 </div>
+
 
