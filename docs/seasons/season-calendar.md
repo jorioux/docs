@@ -4,6 +4,10 @@ The Season Calendar is a powerful feature of PickleTime that allows members to s
 
 ![Season Calendar](../images/pre-season-calendar.png)
 
+Members can review their selections before confirming.
+
+![Season Calendar Selection](../images/pre-season-calendar-selection.png)
+
 ## Purpose
 
 Instead of joining individual events one by one, members use the Season Calendar to sign up to entire recurring time slots for the full season. This ensures consistent participation and simplifies billing.
@@ -24,7 +28,7 @@ In this mode:
 !!! success "Immediate Confirmation"
     Members secure their spot instantly and appear in participant lists for all future events in the chosen series.
 
-### 2. Seniority Priority
+### 2. Waitlist
 
 In this mode:
 
@@ -38,7 +42,7 @@ In this mode:
 - Once confirmed and activated, the member is charged and added as a participant to all future events in the selected time slot.
 
 !!! warning "Season Deals Disabled"
-  Season Deals do not apply in Seniority Priority mode. Rebates are only calculated for time slots using the **First Come, First Serve** registration type.
+  Season Deals do not apply in Waitlist mode. Rebates are only calculated for time slots using the **First Come, First Serve** registration type.
 
 !!! info "Transparent Waitlist"
     The waitlist offers visibility and fairness: members know where they stand and can plan accordingly.
@@ -51,7 +55,7 @@ In this mode:
 4. Confirm selections.
 5. Depending on registration type:
    - First Come, First Serve: Spots are confirmed immediately and charges applied.
-   - Seniority Priority: Signup enters waitlist; pending admin activation.
+   - Waitlist: Signup enters waitlist; pending admin activation.
 
 ## Administrator Workflow
 
@@ -59,8 +63,8 @@ Administrators manage season signups from the season management area:
 
 - Open/close pre-season sign ups.
 - Set per-time-slot cost and define Season Deals for bundles.
-- Choose registration type (first come vs seniority priority) per time slot.
-- For Seniority Priority:
+- Choose registration type (First Come vs Waitlist) per time slot.
+- For Waitlist:
   - View waitlists and member ranks.
   - Activate signups (which triggers charging and full-season event enrollment).
   - Optionally reorder or remove entries (if supported by club policy).
@@ -70,7 +74,7 @@ Administrators manage season signups from the season management area:
 | Mode | When Charged | Participant Enrollment | Visibility |
 |------|---------------|------------------------|------------|
 | First Come, First Serve | Immediately on confirmation | Instant for all season events | N/A (no waitlist) |
-| Seniority Priority | When admin activates signup | After activation | Waitlist + rank visible |
+| Waitlist | When admin activates signup | After activation | Waitlist + rank visible |
 
 ## Season Deals
 
@@ -78,14 +82,13 @@ Season Deals provide automatic rebates when a member selects qualifying combinat
 
 !!! info "Availability"
     
-    Season Deals are ignored for time slots configured with **Seniority Priority**.
+    Season Deals are ignored for time slots configured with **Waitlist**.
 
 If a member selects eligible combinations (all in First Come, First Serve mode), the discounted total is shown prior to confirmation.
 
-## Waitlist Details (Seniority Priority)
+## Waitlist Details (Waitlist)
 
-- Each time slot maintains its own ordered waitlist.
-- Rank changes dynamically as admins confirms sign ups.
+- The administrator confirms signups manually.
 - Members can withdraw from a waitlist at any time.
 - No charges are applied while the member is on the waitlist.
 
@@ -103,7 +106,7 @@ Administrators can manually sign up members to time slots from the member admini
 
 ## Best Practices
 
-- Use Seniority Priority for high-demand time slots to ensure fair allocation.
+- Use Waitlist for high-demand time slots to ensure fair allocation.
 - Communicate waitlist timelines to members.
 - Define clear Season Deals to encourage broader participation.
 - Close pre-season sign ups before the first week starts to finalize series rosters.

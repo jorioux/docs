@@ -2,6 +2,8 @@
 
 Seasons allow members to subscribe to weekly time slots before the season starts. This feature enables clubs to manage recurring events and collect payments in advance.
 
+![List Seasons](../images/list-seasons.png)
+
 ## Introduction
 
 ### Open Pre-Season Sign Ups
@@ -9,7 +11,7 @@ Seasons allow members to subscribe to weekly time slots before the season starts
 When pre-season sign ups are open, members cannot subscribe to individual events directly from the regular schedule. All sign ups for events within that season must be made through the **Pre-Season Calendar**. This is to ensure members subscribe to the entire time slots for the season, rather than picking and choosing individual dates.
 
 !!! info "Season Calendar"
-    To learn more about time slot selection workflows and registration types (First Come, First Serve vs Seniority Priority), see the [Season Calendar](season-calendar.md) page.
+    To learn more about time slot selection workflows and registration types (First Come, First Serve vs Waitlist), see the [Season Calendar](season-calendar.md) page.
 
 ![Pre-season sign ups open](../images/pre-season-subscriptions-open-section.png)
 
