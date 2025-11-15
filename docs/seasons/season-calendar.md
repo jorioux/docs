@@ -69,12 +69,14 @@ Administrators manage season signups from the season management area:
   - Activate signups (which triggers charging and full-season event enrollment).
   - Optionally reorder or remove entries (if supported by club policy).
 
+![List event series subscribers](../images/list-event-series-subscribers.png)
+
 ## Charging Logic Summary
 
-| Mode | When Charged | Participant Enrollment | Visibility |
-|------|---------------|------------------------|------------|
-| First Come, First Serve | Immediately on confirmation | Instant for all season events | N/A (no waitlist) |
-| Waitlist | When admin activates signup | After activation | Waitlist + rank visible |
+| Mode | When Charged | Participant Enrollment |
+|------|---------------|------------------------|
+| First Come, First Serve | Immediately on confirmation | Instant for all season events |
+| Waitlist | When admin confirms signup | After activation |
 
 ## Season Deals
 
