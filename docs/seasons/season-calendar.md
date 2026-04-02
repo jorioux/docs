@@ -1,6 +1,6 @@
 # :material-calendar: Season Calendar
 
-The Season Calendar is a powerful feature of PickleTime that allows members to select their desired time slots for the upcoming season in one streamlined workflow. This is typically done during the **Pre-Season** phase after administrators open sign ups for a season.
+The Season Calendar is a powerful feature of PickleTime that allows members to select their desired time slots for the upcoming season in one streamlined workflow. This is typically done during the **Pre-Season** phase after administrators open signups for a season.
 
 ![Season Calendar](../images/pre-season-calendar.png)
 
@@ -10,7 +10,7 @@ Members can review their selections before confirming.
 
 ## Purpose
 
-Instead of joining individual events one by one, members use the Season Calendar to sign up to entire recurring time slots for the full season. This ensures consistent participation and simplifies billing.
+Instead of joining individual events one by one, members use the Season Calendar to signup to entire recurring time slots for the full season. This ensures consistent participation and simplifies billing.
 
 ## Registration Types
 
@@ -49,7 +49,7 @@ In this mode:
 
 ## Member Workflow
 
-1. Navigate to the Season Calendar (prompted from the dashboard when a season sign ups are open).
+1. Navigate to the Season Calendar (prompted from the dashboard when a season signups are open).
 2. Select one or more desired time slots.
 3. Review the automatically calculated total cost (including rebates from Season Deals, if applicable).
 4. Confirm selections.
@@ -61,7 +61,7 @@ In this mode:
 
 Administrators manage season signups from the season management area:
 
-- Open/close season sign ups.
+- Open/close season signups.
 - Set per-time-slot cost and define Season Deals for bundles.
 - Choose Sign Up Type (First Come vs Waitlist) for the season.
 - For Waitlist mode:
@@ -102,14 +102,14 @@ Once a signup is confirmed (or confirmed directly in First Come, First Serve mod
 
 ## Manual Sign Ups
 
-Administrators can manually sign up members to time slots. These manual actions behave as if the member had used the Season Calendar (including charging logic).
+Administrators can manually signup members to time slots. These manual actions behave as if the member had used the Season Calendar (including charging logic).
 
 ## Best Practices
 
 - Use Waitlist for high-demand time slots to ensure fair allocation.
 - Communicate waitlist timelines to members.
 - Define clear Season Deals to encourage broader participation.
-- Close season sign ups before the season starts to finalize time slots rosters.
+- Close season signups before the season starts to finalize time slots rosters.
 - Assign organizer(s) to each time slots.
 
 ## Related

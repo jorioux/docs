@@ -2,9 +2,9 @@
 
 ## Important Concepts
 
-* **Season**: A defined period (e.g., "Summer 2025") during which special subscription rules apply. A season can have its sign ups "open" or "closed".
+* **Season**: A defined period (e.g., "Summer 2025") during which special subscription rules apply. A season can have its signups "open" or "closed".
 
-* **Time Slots**: A weekly recurring event (e.g., "Monday Night Drills"). It can have a cost for season-long sign up.
+* **Time Slots**: A weekly recurring event (e.g., "Monday Night Drills"). It can have a cost for season-long signup.
 
 * **Event**: A single occurrence within a time slot on a specific date (e.g., "Monday Night Drills on July 7th, 2025").
 
