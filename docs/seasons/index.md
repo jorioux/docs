@@ -21,7 +21,7 @@ When a season sign ups are open, members cannot subscribe to individual events d
 
  * Action: Members must navigate to the Season Calendar.
 
- * Outcome: Signing up to a time slot from the Pre-Season Calendar subscribes the member to all events within that time slot for the entire season.
+ * Outcome: Signing up to a time slot from the Season Calendar subscribes the member to all events within that time slot for the entire season.
 
 ### Closed Season Sign Ups
 
@@ -52,9 +52,9 @@ Once you have created a season, you can assign time slots to it.
     From the season page, you can set the cost that members will have to pay to subscribe to each time slots.
 
 !!! tip "Season Deals"
-    From the season page, you can also create **Season Deals**. Season Deals are rebates that are automatically applied when a member selects specific combinations of time slots from the Pre-Season Calendar. This allows clubs to offer discounts or incentives for members who commit to certain time slots together.
+    From the season page, you can also create **Season Deals**. Season Deals are rebates that are automatically applied when a member selects specific combinations of time slots from the Season Calendar. This allows clubs to offer discounts or incentives for members who commit to certain time slots together.
 
-## Opening Pre-Season Sign Ups
+## Opening Season Sign Ups
 
 To allow members to subscribe to the upcoming season time slots:
 
@@ -62,16 +62,7 @@ To allow members to subscribe to the upcoming season time slots:
 2. Navigate to the Seasons page
 3. Toggle on the "Sign Ups" option for the upcoming season
 
-## Pre-Season Sign Ups Process
-
-Once pre-season sign ups are open, members will see a new section in their dashboard.
-
-### Payment and Registration
-
-After confirming their sign up:
-
-- Their ongoing balance is automatically updated with the time slot cost
-- Members are automatically subscribed to all selected events for the entire season
+Once season sign ups are open, members will see a new section in their dashboard. See [Season Calendar](season-calendar.md) for more info.
 
 ### Manually subscribe a member
 
@@ -82,6 +73,8 @@ Administrators can manually register these members from the administration panel
 2. Select the member from the table.
 3. Scroll to the bottom and open the **Time Slots** tab.
 4. Manually sign up the member for the desired Time Slot.
+
+![User time slot sign up](../images/user-time-slot-sign-up.png)
 
 !!! info "Time slot cost"
     If there is a sign-up cost for the selected time slot, the member will be charged as if they had signed up through the pre-season calendar.

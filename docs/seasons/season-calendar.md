@@ -49,25 +49,24 @@ In this mode:
 
 ## Member Workflow
 
-1. Navigate to the Season Calendar (prompted from the dashboard when pre-season sign ups are open).
+1. Navigate to the Season Calendar (prompted from the dashboard when a season sign ups are open).
 2. Select one or more desired time slots.
 3. Review the automatically calculated total cost (including rebates from Season Deals, if applicable).
 4. Confirm selections.
 5. Depending on registration type:
    - First Come, First Serve: Spots are confirmed immediately and charges applied.
-   - Waitlist: Signup enters waitlist; pending admin activation.
+   - Waitlist: Signup enters waitlist; pending admin confirmation.
 
 ## Administrator Workflow
 
 Administrators manage season signups from the season management area:
 
-- Open/close pre-season sign ups.
+- Open/close season sign ups.
 - Set per-time-slot cost and define Season Deals for bundles.
-- Choose registration type (First Come vs Waitlist) per time slot.
-- For Waitlist:
+- Choose Sign Up Type (First Come vs Waitlist) for the season.
+- For Waitlist mode:
   - View waitlists and member ranks.
-  - Activate signups (which triggers charging and full-season event enrollment).
-  - Optionally reorder or remove entries (if supported by club policy).
+  - Confirm signups (which triggers charging and full-season event enrollment).
 
 ![List time slot subscribers](../images/list-time-slot-subscribers.png)
 
