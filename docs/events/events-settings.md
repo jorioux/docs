@@ -2,17 +2,13 @@
 
 You may configure event behavior by adjusting the available settings.
 
-![Event Settings](../images/events/events-settings.png)
+![Event Settings](../images/event-settings.png)
 
 ## Disable Waitlist
 
 To prevent members from joining a waitlist when an event reaches capacity, you may disable the waitlist feature. With the waitlist disabled, additional members will not be able to subscribe or join a waitlist once the event is full.
 
 ![Waitlist Disabled](../images/events/waitlist-disabled.png)
-
-## Series Subscriptions
-
-The [Series Subscriptions](recurring-events.md#series-subscriptions) feature is available exclusively for [recurring events](recurring-events.md), allowing for advanced subscription management.
 
 ## Joining Unlocks On
 

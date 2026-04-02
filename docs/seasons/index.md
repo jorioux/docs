@@ -1,33 +1,35 @@
-# :fontawesome-regular-sun: Seasons
+# :fontawesome-regular-sun: Overview
 
 Seasons allow members to subscribe to weekly time slots before the season starts. This feature enables clubs to manage recurring events and collect payments in advance.
+
+!!! tip "Create a new season"
+
+    For help on creating a new season, visit the page [Create a new season](create-season.md)
 
 ![List Seasons](../images/list-seasons.png)
 
 ## Introduction
 
-### Open Pre-Season Sign Ups
+### Open Season Sign Ups
 
-When pre-season sign ups are open, members cannot subscribe to individual events directly from the regular schedule. All sign ups for events within that season must be made through the **Pre-Season Calendar**. This is to ensure members subscribe to the entire time slots for the season, rather than picking and choosing individual dates.
+When a season sign ups are open, members cannot subscribe to individual events directly from the regular schedule. All sign ups for events within that season must be made through the **Season Calendar**. This is to ensure members commits to entire time slots for the season, rather than picking and choosing individual dates.
 
 !!! info "Season Calendar"
     To learn more about time slot selection workflows and registration types (First Come, First Serve vs Waitlist), see the [Season Calendar](season-calendar.md) page.
 
-![Pre-season sign ups open](../images/pre-season-subscriptions-open-section.png)
+![Season sign ups open](../images/pre-season-subscriptions-open-section.png)
 
- * Action: Members must navigate to the Pre-Season Calendar.
+ * Action: Members must navigate to the Season Calendar.
 
- * Outcome: Subscribing to a time slot from the Pre-Season Calendar subscribes the member to all events within that series for the entire season.
+ * Outcome: Signing up to a time slot from the Pre-Season Calendar subscribes the member to all events within that time slot for the entire season.
 
-### Closed Pre-Season Sign Ups
+### Closed Season Sign Ups
 
-When pre-season sign ups are closed for the active season, members have more granular control over event participation, but with specific limitations.
+When season sign ups are closed for the active or upcoming season, members have more granular control over event participation, but with specific limitations.
 
- * **Events a member already subscribed to via the Season Calendar**: A member can freely subscribe and unsubscribe from these individual events.
+ * **Events a member already signed up for to via the Season Calendar**: A member can freely join and withdraw from these individual events.
 
- * **Events a member didn't subscribe to via the Season Calendar**: A member can only subscribe to these events if they are part of an Event Series that had a $0 cost for a season sign up.
-
-* **Important Note**: Even if the cost was $0, you can configure the platform to deny drop-ins for free time slots.
+ * **Events a member didn't sign up for to via the Season Calendar**: A member can only join these events if they are allowed to substitute (Drop-in).
 
 ## Creating Seasons
 
@@ -37,9 +39,14 @@ To create a new season:
 2. Go to the Seasons page
 3. Create a new season with the desired start and end dates
 
-## Assigning Event Series to Seasons
+!!! tip "Create from previous season"
+    When creating a new season, you can copy time slots from a previous season to save time.
 
-Once you have created a season, you can assign Event Series to it.
+    ![Copy from previous season](../images/copy-from-previous-season.png)
+
+## Assigning Time Slots to Seasons
+
+Once you have created a season, you can assign time slots to it.
 
 !!! note "Time slot cost"
     From the season page, you can set the cost that members will have to pay to subscribe to each time slots.
@@ -73,10 +80,8 @@ Administrators can manually register these members from the administration panel
 
 1. Go to the **Members** page.
 2. Select the member from the table.
-3. Scroll to the bottom and open the **Series** tab.
-4. Manually sign up the member for the desired Event Series.
+3. Scroll to the bottom and open the **Time Slots** tab.
+4. Manually sign up the member for the desired Time Slot.
 
 !!! info "Time slot cost"
     If there is a sign-up cost for the selected time slot, the member will be charged as if they had signed up through the pre-season calendar.
-
-

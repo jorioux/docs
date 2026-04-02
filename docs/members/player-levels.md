@@ -21,16 +21,4 @@ Additionally, you can define a maximum number of participants per player level. 
 
 Player levels can also be used to send targeted messages. For example, you can notify all "Intermediate" players about an upcoming event or share updates relevant to a specific skill group.
 
-## Reevaluation Requests
-
-Members can request a reevaluation of their player level if they feel they no longer belong to their current level. This process ensures that members are accurately categorized based on their current skill level.
-
-### How Reevaluation Works
-
-1. **Submitting a Request**: Members can submit a reevaluation request through the system. They may include comments explaining why they believe their player level should be changed.
-2. **Evaluator Role**: Reevaluation requests are assigned to a member with the "Evaluator" role. Evaluators are responsible for reviewing and processing these requests.
-3. **Scheduling an Evaluation**: Evaluators can view the member's upcoming participating events and schedule to attend one of these events to observe their performance.
-4. **Final Decision**: After the evaluation, the evaluator can update the member's player level if necessary.
-
-This process ensures fairness and accuracy in assigning player levels while providing members with an opportunity to improve and grow.
-
+![Send message to player levels](../images/send-message-player-levels.png)

@@ -2,11 +2,11 @@
 
 ## Important Concepts
 
-* **Season**: A defined period (e.g., "Summer 2025") during which special subscription rules apply. A season can have its pre-season subscriptions "open" or "closed".
+* **Season**: A defined period (e.g., "Summer 2025") during which special subscription rules apply. A season can have its sign ups "open" or "closed".
 
-* **Event Series**: A recurring event (e.g., "Monday Night Drills"). It can have a cost for season-long subscription.
+* **Time Slots**: A weekly recurring event (e.g., "Monday Night Drills"). It can have a cost for season-long sign up.
 
-* **Event**: A single occurrence of an EventSeries on a specific date (e.g., "Monday Night Drills on July 7th, 2025").
+* **Event**: A single occurrence within a time slot on a specific date (e.g., "Monday Night Drills on July 7th, 2025").
 
 ## Creating Events
 
@@ -16,17 +16,16 @@ Events are an essential part of managing a pickleball club. With PickleTime, you
 
 Provide these infos when creating an event:
 
-* **Name**: Enter the name of the event. This field is required.
+* **Name**: Enter the name of the event.
 * **Description**: Add a detailed description to help participants understand the purpose of the event.
-Date and Time
-* **Start**: Specify the start date and time for the event. This field is required.
-* **End**: Specify the end date and time for the event. This field is required.
+* **Start**: Specify the start date and time for the event.
+* **End**: Specify the end date and time for the event.
 * **Location**: Choose the event location from the dropdown menu.
 * **Maximum**: Set the maximum number of participants allowed for the event. If left blank, there will be no limit on the number of participants.
 
     !!! info "Player Levels"
 
-        You may also assign [player levels](../members/player-levels.md) to events to restrict who can register.
+        You may also assign [player levels](../members/player-levels.md) to events and time slots to restrict who can join.
 
         Additionally, you can specify a maximum number of participants per player level.
 
@@ -41,6 +40,11 @@ Locations specify where an event will take place. When creating or editing an ev
 !!! info "Updating an event location"
 
     If the location of an event has changed, participants will be notified of the change to ensure they are aware of the updated details.
+
+![Edit Location](../images/edit-location.png)
+
+!!! tip "Location photo"
+    If a location photo is uploaded, it will be used as a header background for all events at this location.
 
 ## :fontawesome-regular-calendar: Calendar View
 
@@ -71,6 +75,10 @@ As an organizer, they are responsible for ensuring the event runs smoothly. (1)
 To add organizers for an event, navigate to the event edit page. From there, you can assign specific members as organizers.
 
 ![Manage Organizers](../images/events/manage-organizers.png)
+
+You can also assign organizers for a whole time slot.
+
+![Time slot organizers](../images/time-slot-organizers.png)
 
 ## :fontawesome-regular-comments: Event Chat
 

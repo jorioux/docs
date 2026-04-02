@@ -26,7 +26,7 @@ In this mode:
 - The member is added as a participant to all corresponding events across the entire season.
 
 !!! success "Immediate Confirmation"
-    Members secure their spot instantly and appear in participant lists for all future events in the chosen series.
+    Members secure their spot instantly and appear in participant lists for all future events in the chosen time slot.
 
 ### 2. Waitlist
 
@@ -69,7 +69,7 @@ Administrators manage season signups from the season management area:
   - Activate signups (which triggers charging and full-season event enrollment).
   - Optionally reorder or remove entries (if supported by club policy).
 
-![List event series subscribers](../images/list-event-series-subscribers.png)
+![List time slot subscribers](../images/list-time-slot-subscribers.png)
 
 ## Charging Logic Summary
 
@@ -88,33 +88,32 @@ Season Deals provide automatic rebates when a member selects qualifying combinat
 
 If a member selects eligible combinations (all in First Come, First Serve mode), the discounted total is shown prior to confirmation.
 
-## Waitlist Details (Waitlist)
+## Waitlist Mode
 
 - The administrator confirms signups manually.
 - Members can withdraw from a waitlist at any time.
 - No charges are applied while the member is on the waitlist.
 
-## After Activation / Confirmation
+## After Confirmation
 
-Once a signup is activated (or confirmed directly in First Come, First Serve mode):
+Once a signup is confirmed (or confirmed directly in First Come, First Serve mode):
 
 - The member appears in the participant list for all events in that time slot for the rest of the season.
-- Billing ledger reflects the transaction.
-- Drop-in rules may still apply for events outside subscribed time slots.
+- Member balance is updated.
 
-## Manual Overrides
+## Manual Sign Ups
 
-Administrators can manually sign up members to time slots from the member administration page. These manual actions behave as if the member had used the Season Calendar (including charging logic).
+Administrators can manually sign up members to time slots. These manual actions behave as if the member had used the Season Calendar (including charging logic).
 
 ## Best Practices
 
 - Use Waitlist for high-demand time slots to ensure fair allocation.
 - Communicate waitlist timelines to members.
 - Define clear Season Deals to encourage broader participation.
-- Close pre-season sign ups before the first week starts to finalize series rosters.
+- Close season sign ups before the season starts to finalize time slots rosters.
+- Assign organizer(s) to each time slots.
 
 ## Related
 
 - [Seasons Overview](index.md)
-- [Event Series Management](../events/events-management.md)
-
+- [Time Slots Management](../events/time-slots.md)

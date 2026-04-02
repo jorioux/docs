@@ -26,7 +26,7 @@ Use the top menu to browse the docs, or use the links below.
 
     [:octicons-arrow-right-24: Events Settings](events/events-settings.md)
 
-    [:octicons-arrow-right-24: Recurring Events](events/recurring-events.md)
+    [:octicons-arrow-right-24: Time Slots](events/time-slots.md)
 
 -   :octicons-sun-16: __Seasons__
 
