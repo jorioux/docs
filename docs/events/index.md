@@ -7,9 +7,9 @@ Administrators and event organizers can export the list of participants from any
 ### How to Export
 
 1. Navigate to the event page
-2. Click on the "Actions" button group
-3. Select "Export Participants" from the dropdown menu
-4. The Excel file containing all participant information will be downloaded automatically
+3. From the **Actions** button group, select **Participants**
+4. The participants table will open. Click the **Export** button
+5. The Excel file containing all participant information will be downloaded automatically
 
 The exported file includes participant names and player levels.
 

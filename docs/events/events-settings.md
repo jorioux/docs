@@ -10,9 +10,11 @@ To prevent members from joining a waitlist when an event reaches capacity, you m
 
 ![Waitlist Disabled](../images/events/waitlist-disabled.png)
 
-## Joining Unlocks On
+## Registration Opens
 
 You may restrict when users can join an event by specifying an unlock date. Before this date, users attempting to join will see a message indicating when registration will become available.
+
+![Not authorized message](../images/events/not-authorized-registration.png)
 
 ## Event Cost
 
@@ -23,5 +25,5 @@ Exceptions:
 * Participants are not charged if the event is canceled.
 * Members who remain on the waitlist are not charged.
 
-The event charge will be added to each member's [ongoing balance](../billing.md#members-ongoing-balance).
+The event charge will be added to each member's [pending payments](../billing.md#members-pending-payments).
 

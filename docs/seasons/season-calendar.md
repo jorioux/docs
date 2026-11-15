@@ -42,7 +42,7 @@ In this mode:
 - Once confirmed and activated, the member is charged and added as a participant to all future events in the selected time slot.
 
 !!! warning "Season Deals Disabled"
-  Season Deals do not apply in Waitlist mode. Rebates are only calculated for time slots using the **First Come, First Serve** registration type.
+    Season Deals do not apply in Waitlist mode. Rebates are only calculated for time slots using the **First Come, First Serve** registration type.
 
 !!! info "Transparent Waitlist"
     The waitlist offers visibility and fairness: members know where they stand and can plan accordingly.

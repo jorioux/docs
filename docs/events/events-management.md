@@ -60,7 +60,7 @@ Reminders are automatically sent to all members who are attending an event (excl
 
 ## :fontawesome-solid-user-tie: Organizers
 
-Event organizers are members assigned to oversee and manage specific events.
+Organizers are members assigned to oversee and manage specific events or time slots.
 
 As an organizer, they are responsible for ensuring the event runs smoothly. (1)
 { .annotate }

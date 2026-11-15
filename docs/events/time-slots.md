@@ -1,8 +1,10 @@
 # :fontawesome-solid-rotate: Time Slots
 
-When creating an event, you may designate it as recurring by selecting the desired frequency.
+![Create time slot](../images/create-time-slot-action.png)
 
-![Recurrence](../images/events/recurrence.png)
+When creating a time slot, you have to set the desired recurrence.
+
+![Recurrence](../images/time-slot-recurrance.png)
 
 This action will generate a series of linked events for streamlined management. Each event within the time slot can be managed independently.
 

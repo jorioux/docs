@@ -10,41 +10,41 @@ Use the top menu to browse the docs, or use the links below.
 
     ---
 
-    [:octicons-arrow-right-24: Invite Members](members/index.md#invite-members)
+    :octicons-arrow-right-24: [Invite Members](members/index.md#invite-members)
 
-    [:octicons-arrow-right-24: Extra Fields](members/index.md#extra-fields)
+    :octicons-arrow-right-24: [Extra Fields](members/index.md#extra-fields)
 
-    [:octicons-arrow-right-24: Groups](members/groups.md)
+    :octicons-arrow-right-24: [Groups](members/groups.md)
 
-    [:octicons-arrow-right-24: Player Levels](members/player-levels.md)
+    :octicons-arrow-right-24: [Player Levels](members/player-levels.md)
 
 -   :octicons-calendar-16: __Events__
 
     ---
 
-    [:octicons-arrow-right-24: Events Management](events/events-management.md)
+    :octicons-arrow-right-24: [Events Management](events/events-management.md)
 
-    [:octicons-arrow-right-24: Events Settings](events/events-settings.md)
+    :octicons-arrow-right-24: [Events Settings](events/events-settings.md)
 
-    [:octicons-arrow-right-24: Time Slots](events/time-slots.md)
+    :octicons-arrow-right-24: [Time Slots](events/time-slots.md)
 
 -   :octicons-sun-16: __Seasons__
 
     ---
 
-    [:octicons-arrow-right-24: Overview](seasons/index.md)
+    :octicons-arrow-right-24: [Overview](seasons/index.md)
 
-    [:octicons-arrow-right-24: Season Calendar](seasons/season-calendar.md)
+    :octicons-arrow-right-24: [Season Calendar](seasons/season-calendar.md)
 
 -   :octicons-book-16: __Other__
 
     ---
 
-    [:octicons-credit-card-24: Billing](billing.md)
+    :octicons-arrow-right-24: [Billing](billing.md)
 
-    [:octicons-comment-24: Messaging](messaging.md)
+    :octicons-arrow-right-24: [Messaging](messaging.md)
 
-    [:octicons-bell-24: Push Notifications](push-notifications.md)
+    :octicons-arrow-right-24: [Push Notifications](push-notifications.md)
 
 </div>
 

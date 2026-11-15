@@ -11,6 +11,8 @@ It is highly recommended that members enable Push Notifications to stay informed
 
 ## Setup for iPhone and iPad Users
 
+[Turn a website into an app in Safari on iPhone](https://support.apple.com/en-ca/guide/iphone/iphea86e5236/27/ios/27){:target="_blank"}
+
 !!! warning "Important Setup Step"
     
     If you're using an iPhone or iPad, you must add the PickleTime web app to your Home Screen **before** you can enable Push Notifications.
